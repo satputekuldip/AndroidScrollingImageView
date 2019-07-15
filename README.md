@@ -94,9 +94,7 @@ In order to achieve a parallax effect, you can stack multiple `ScrollingImageVie
 
 ## Originally Forked From
 
-<a href="https://github.com/Q42/AndroidScrollingImageView"
-
-> Q42/AndroidScrollingImageView</a>
+<a href="https://github.com/Q42/AndroidScrollingImageView">Q42/AndroidScrollingImageView</a>
 
 ## License
 
