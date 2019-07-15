@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/q42/androidscrollingimageview.svg)](https://jitpack.io/#q42/androidscrollingimageview)
+[![](https://jitpack.io/v/satputekuldip/AndroidScrollingImageView.svg)](https://jitpack.io/#satputekuldip/AndroidScrollingImageView)
 
 # Scrolling Image View
 
@@ -94,11 +94,9 @@ In order to achieve a parallax effect, you can stack multiple `ScrollingImageVie
 
 ## Originally Forked From
 
-```html
 <a href="https://github.com/Q42/AndroidScrollingImageView"
-  >Q42/AndroidScrollingImageView</a
->
-```
+
+> Q42/AndroidScrollingImageView</a>
 
 ## License
 
